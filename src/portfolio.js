@@ -465,7 +465,7 @@ const projects = {
       name: "PETSBROZ",
       url: "https://apps.apple.com/pk/app/petsbroz/id1668323327",
       description:
-        "Nomadz stands as the ultimate marketplace crafted by and for outdoor enthusiasts, delivering a comprehensive and user-friendly platform for nature lovers.",
+        "Petsbroz helps find the perfect pet with ease. With our easy to use filters you can search to find your desired pet with pay user within the mobile app.",
       languages: [
         {
           name: "React $ React Native",
