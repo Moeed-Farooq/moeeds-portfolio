@@ -1,4 +1,3 @@
-/* Change this file to get your personal Porfolio */
 
 // Website related settings
 const settings = {
@@ -16,7 +15,7 @@ const greeting = {
   full_name: "Moeed Farooq",
   subTitle:
     "Full Stack Development, Open Source Enthusiast 🔥. Always learning.",
-  resumeLink: "https://www.fiverr.com/users/users/farooq_zahid1/",
+  resumeLink: "https://www.fiverr.com/users/farooq_zahid1/",
   mail: "mailto:moeedfarooq14442@gmail.com",
 };
 
@@ -30,7 +29,6 @@ const socialMediaLinks = {
   twitter: "https://twitter.com/MoeedFarooq07",
   instagram: "https://www.instagram.com/moeed_farook/",
   whatsapp: "https://wa.me/+923043888832",
-  telegram: "https://t.me/+9234974181412",
 };
 
 const skills = {
@@ -309,7 +307,7 @@ const experience = {
         {
           title: "Mobile App Developer",
           company: "ChopDawg",
-          company_url: "https://teknovation.io/",
+          company_url: "https://www.chopdawg.com/",
           logo_path: "cd.png",
           duration: "Feb 2024 – Pre.",
           location: "1703 N Howard St, Philadelphia",
@@ -354,12 +352,12 @@ const experience = {
             create interchangeable modules with state management.`,
           ],
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
-          color: "#ee3c26",
+          color: "#0071C5",
         },
         {
           title: "Mobile App Developer",
           company: "Punjab Safe Cities Authority",
-          company_url: "https://hwryk.com/",
+          company_url: "https://psca.gop.pk/",
           logo_path: "psca.png",
           duration: "Feb 2020 – June 2021",
           location: "Qurban Police Lines, Lahore",
@@ -379,7 +377,7 @@ const experience = {
         {
           title: "Mobile Application Developer",
           company: "Jeux Developers",
-          company_url: "https://hwryk.com/",
+          company_url: "https://jeuxdevelopers.com/",
           logo_path: "juex.png",
           duration: "Oct 2018 - Dec 2019",
           location: "Garden Town, Lahore",
@@ -398,7 +396,7 @@ const experience = {
             performance.`
           ],
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#5a900f",
+          color: "#0071C5",
         },
       ],
     },
